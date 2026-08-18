@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/license-MIT-0078D4?style=for-the-badge" alt="License">
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/@capideb">
+    <img src="https://img.shields.io/badge/YouTube-Capi.deb-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — Capi.deb">
+  </a>
+</p>
+
 ---
 
 ⚠️ **Não tem banco de dados** — realmente não consegue roubar seus dados, relaxa! É só um projeto simples para testar habilidades de front-end.
